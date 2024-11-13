@@ -8,7 +8,7 @@ class AddTwo
 
 		System.out.println("Sum of checking " + s);
 
-	        System.out.println("Sum of a and b " + s);
+	        System.out.println("Sum of a and b  is " + s);
 
 	}
 }
